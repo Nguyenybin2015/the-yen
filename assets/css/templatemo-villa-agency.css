@@ -742,6 +742,7 @@ Banner Style
   background-size: cover;
   padding: 220px 20% 320px 20%;
   margin-top: 0px;
+  min-height: 1200px;
 }
 
 .main-banner .item-1 {
