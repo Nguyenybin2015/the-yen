@@ -1691,7 +1691,12 @@ Contact Page Style
 .contact-page #contact-form button:hover {
   background-color: #1e3d37;
 }
-
+.container-image {
+  display: flex;
+  flex-direction: column;
+  /* width: 100px;
+  height: 100px; */
+}
 
 /* 
 ---------------------------------------------
