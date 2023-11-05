@@ -1108,7 +1108,7 @@ Best Deal Style
 
 .best-deal .info-table ul li {
   display: block;
-  margin-bottom: 24px;
+  /* margin-bottom: 24px; */
   padding-bottom: 24px;
   border-bottom: 1px solid #eee;
   text-align: left;
@@ -1124,7 +1124,8 @@ Best Deal Style
 }
 
 .best-deal .info-table ul li span {
-  font-size: 20px;
+  /* font-size: 20px; */
+  font-size: 16px;
   color: #1e1e1e;
   font-weight: 700;
   float: right;
@@ -1139,7 +1140,8 @@ Best Deal Style
 .best-deal .tabs-content h4 {
   font-size: 17px;
   font-weight: 600;
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
+  margin-bottom: 12px;
 }
 
 .best-deal .icon-button {
