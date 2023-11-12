@@ -1,36 +1,6 @@
-/*
 
-TemplateMo 591 villa agency
-
-https://templatemo.com/tm-591-villa-agency
-
-*/
-
-/* ---------------------------------------------
-Table of contents
-------------------------------------------------
-01. font & reset css
-02. reset
-03. global styles
-04. header
-05. banner
-06. features
-07. testimonials
-08. contact
-09. footer
-
---------------------------------------------- */
-/* 
----------------------------------------------
-font & reset css
---------------------------------------------- 
-*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900");
-/* 
----------------------------------------------
-reset
---------------------------------------------- 
-*/
+
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
@@ -1128,7 +1098,7 @@ Best Deal Style
   font-size: 16px;
   color: #1e1e1e;
   font-weight: 700;
-  /* float: right; */
+  float: right;
   display: inline-block;
 }
 
@@ -1209,7 +1179,7 @@ Properties Style
   color: #1e3d37;
   margin-top: 6px;
   display: inline-block;
-  /* float: right; */
+  float: right;
   margin-top: 30px;
 }
 
@@ -1833,4 +1803,26 @@ body {
   .contact-page .section-heading {
     margin-right: 100px;
   }
+}
+.list {
+  padding: 10px;
+}
+
+.list-item {
+  margin-bottom: 15px;
+  list-style-type: square;
+  text-indent: -15px;
+  color: white;
+  margin-left: 20px;
+  font-size:30px;
+}
+
+.list-item__text {
+  font-style: italic;
+  color: white;
+  font-size: 24px;
+}
+.uppercase {
+  margin-left: 10px;
+  text-transform: uppercase;
 }
