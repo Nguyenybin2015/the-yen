@@ -177,6 +177,28 @@ body {
   background-color: #1e3d37;
   color: #fff;
 }
+.list {
+  padding: 10px;
+}
+
+.list-item {
+  margin-bottom: 15px;
+  list-style-type: square;
+  text-indent: -15px;
+  color: white;
+  margin-left: 20px;
+  font-size:30px;
+}
+
+.list-item__text {
+  font-style: italic;
+  color: white;
+  font-size: 24px;
+}
+.uppercase {
+  margin-left: 10px;
+  text-transform: uppercase;
+}
 
 /* 
 ---------------------------------------------
@@ -1803,26 +1825,4 @@ body {
   .contact-page .section-heading {
     margin-right: 100px;
   }
-}
-.list {
-  padding: 10px;
-}
-
-.list-item {
-  margin-bottom: 15px;
-  list-style-type: square;
-  text-indent: -15px;
-  color: white;
-  margin-left: 20px;
-  font-size:30px;
-}
-
-.list-item__text {
-  font-style: italic;
-  color: white;
-  font-size: 24px;
-}
-.uppercase {
-  margin-left: 10px;
-  text-transform: uppercase;
 }
