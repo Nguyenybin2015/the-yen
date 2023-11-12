@@ -1128,7 +1128,7 @@ Best Deal Style
   font-size: 16px;
   color: #1e1e1e;
   font-weight: 700;
-  float: right;
+  /* float: right; */
   display: inline-block;
 }
 
@@ -1209,7 +1209,7 @@ Properties Style
   color: #1e3d37;
   margin-top: 6px;
   display: inline-block;
-  float: right;
+  /* float: right; */
   margin-top: 30px;
 }
 
